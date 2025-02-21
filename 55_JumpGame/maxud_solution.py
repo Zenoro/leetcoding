@@ -16,6 +16,5 @@ class Solution:
 # print(solution.canJump([3,2,1,0,4]))
 # print(solution.canJump([1,0,1,1]))
 # print(solution.canJump([2,0,1,1]))
-# print(solution.canJump([1,1,0]))
 # print(solution.canJump([3,0,8,2,0,0,1]))
 
